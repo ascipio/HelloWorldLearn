@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="name_hint">Your Name Please</string>
+    <string name="say_button_label">Say Hello</string>
+</resources>
